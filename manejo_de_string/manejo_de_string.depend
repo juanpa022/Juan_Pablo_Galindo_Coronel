@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618583176 source:d:\code_c++\manejo_de_string\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
