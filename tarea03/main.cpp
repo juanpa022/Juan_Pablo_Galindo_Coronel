@@ -161,7 +161,7 @@ for(int i=0;i<a.length();i++)
 /*
 int main ()
 {
-  char str[] ="- This, a sample string.";
+  char str[] ="- Hola, que paso master.";
   char * pch;
   pch = strtok (str," ,.-");
   while (pch != NULL)
@@ -197,7 +197,7 @@ void ordenamientoSeleccion( int [], const int, bool (*)( int, int ) );
   {
   const int tamanioArreglo = 10;
   int orden; // 1 = ascendente, 2 = descendente
-  int contador; // subíndice del arreglo
+  int contador; // subÃ­ndice del arreglo
   int a[ tamanioArreglo ] = { 2, 6, 4, 8, 10, 12, 89, 68, 45, 37 };
 
   cout << "Escriba 1 para orden ascendente,\n"
@@ -219,7 +219,7 @@ if ( orden == 1 )
   cout << setw( 4 ) << a[ contador ];
 
   cout << endl;
-  return 0; // indica que terminó correctamente
+  return 0; // indica que terminÃ³ correctamente
   }
   void ordenamientoSeleccion( int trabajo[], const int tamanio,
   bool (*compara)( int, int ) )
