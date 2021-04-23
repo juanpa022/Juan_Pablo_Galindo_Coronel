@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619139329 source:d:\code_c++\cesar_03\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
