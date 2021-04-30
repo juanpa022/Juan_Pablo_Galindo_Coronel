@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619754551 source:d:\code_c++\afin_final\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<time.h>
+	<random>
+
